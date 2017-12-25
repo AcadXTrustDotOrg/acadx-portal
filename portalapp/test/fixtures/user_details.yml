@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  full_name: MyString
+  email_address: MyString
+  exam_roll_number: MyString
+  specialization: MyString
+  department: MyString
+  college_name: MyString
+  university_name: MyString
+  degree_id: 1
+  designation_id: 1
+  phone_number: MyString
+  highest_qualification_degree_id: 1
+  teaching_experience_years: 1
+  research_experience_yrs: 1
+  industry_experience: 1
+  proof_document_id: 1
+
+two:
+  user_id: 1
+  full_name: MyString
+  email_address: MyString
+  exam_roll_number: MyString
+  specialization: MyString
+  department: MyString
+  college_name: MyString
+  university_name: MyString
+  degree_id: 1
+  designation_id: 1
+  phone_number: MyString
+  highest_qualification_degree_id: 1
+  teaching_experience_years: 1
+  research_experience_yrs: 1
+  industry_experience: 1
+  proof_document_id: 1
